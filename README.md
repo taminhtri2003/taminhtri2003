@@ -7,6 +7,7 @@ I'm a highly motivated and results-oriented Biomedical Engineering student at In
 - **Brain-computer interfaces (BCIs)**
 - **AI-powered medical image analysis**
 - **Wearable sensor technology for health monitoring**
+- **Explainable AI in Rehabilitation and Healthcare**
 
 ## 💡 Skills & Expertise:
 
@@ -23,11 +24,10 @@ I'm a highly motivated and results-oriented Biomedical Engineering student at In
 
 ## 📚  Projects:
 
-- **[Project 1 Name]:** [Brief description and link to repo (if applicable)]
-- **[Project 2 Name]:** [Brief description and link to repo (if applicable)]
-- **[Project 3 Name]:** [Brief description and link to repo (if applicable)] 
-
-*(Add more projects as you complete them!)*
+- **Machine Learning-Based Kidney CT Scan Analysis for Disease Classification:** Developing a machine learning model to classify kidney conditions in CT scans. (Apr 2024 - Present)
+- **Applying Explainable AI to detect sEMG-based prosthetic hand for amputees in real-time movement:**  Defining the explainability of machine learning models for real-time control of prosthetic hands using sEMG signals. (Jul 2022 - Present)
+- **Optimizing Brain Tumor Detection: A Comparative Study of UNET and LinkNet Deep Learning Models:** Investigating the effectiveness of UNET and LinkNet architectures for brain tumor segmentation and classification. (Nov 2023 - Jan 2024)
+- **Design the PID System for Heating System:** Designing a PID control system to regulate the temperature of a heating system. (Nov 2023 - Dec 2023)
 
 ## 🌱 Learning & Growth:
 
@@ -37,8 +37,8 @@ I'm a highly motivated and results-oriented Biomedical Engineering student at In
 
 ## 🤝 Let's Connect!
 
-<a href="[Your LinkedIn Profile URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="[Your Email Address]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/tri-ta-minh-433b76102/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="taminhtri2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 ## ⚡ Fun Fact:
 
