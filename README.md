@@ -42,6 +42,6 @@ I'm a highly motivated and results-oriented Biomedical Engineering student at In
 
 ## ⚡ Fun Fact:
 
-[Your Fun Fact] 
+[Your Fun Fact] im gay
 
 ---
